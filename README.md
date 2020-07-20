@@ -15,4 +15,4 @@ seaborn etc.
 pip install library_name
 ```
 #### Dataset
-I took the dataset from Kaggle. Link for dataset is https://www.kaggle.com/mlg-ulb/creditcardfraud. The dataset had 31 columns.
+I took the dataset from Kaggle. Link for dataset is https://www.kaggle.com/mlg-ulb/creditcardfraud. The dataset had 31 columns. Some columns are time,v1-v28 these are result of a PCA Dimensionality reduction to protect user identities and sensitive features, amount and class.
